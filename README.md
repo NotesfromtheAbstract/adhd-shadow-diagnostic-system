@@ -1,7 +1,7 @@
-# Notes from the Abstract — You Have ADHD. YOU Have ADHD! Everyone Has ADHD!
+# Notes from the Abstracts — You Have ADHD. YOU Have ADHD! Everyone Has ADHD!
 ### How a shadow diagnostic system got into the official record and why nobody cares.
 
-Published March 3, 2026 in [Notes from the Abstract](https://andrewrcrocker.substack.com/p/you-have-adhd-you-have-adhd-everyone)
+Published March 3, 2026 in [Notes from the Abstracts](https://andrewrcrocker.substack.com/p/you-have-adhd-you-have-adhd-everyone)
 
 ---
 
@@ -61,8 +61,8 @@ Output renders at 1456×816px (16:9), optimized for Substack's maximum post widt
 
 ---
 
-## About Notes from the Abstract
+## About Notes from the Abstracts
 
-*Notes from the Abstract* covers the infrastructure of health data — how diseases get counted, coded, and reported, and what happens when that infrastructure fails. Written by a Health Information Management professional with certifications in professional and emergency department coding.
+*Notes from the Abstracts* covers the infrastructure of health data — how diseases get counted, coded, and reported, and what happens when that infrastructure fails. Written by a Health Information Management professional with certifications in professional and emergency department coding.
 
 [Subscribe on Substack](https://andrewrcrocker.substack.com)

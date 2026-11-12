@@ -1,5 +1,5 @@
 # Copyright (c) 2026 Andrew R. Crocker. All rights reserved.
-# Notes from the Abstract — https://andrewrcrocker.substack.com
+# Notes from the Abstracts — https://andrewrcrocker.substack.com
 
 library(ggplot2)
 
