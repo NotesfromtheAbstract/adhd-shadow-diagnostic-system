@@ -1,7 +1,7 @@
 # You Have ADHD. YOU Have ADHD! Everyone Has ADHD!
 ### How a shadow diagnostic system got into the official record and why nobody cares.
 
-*Published March 3, 2026 — [Notes from the Abstract](https://andrewrcrocker.substack.com)*
+*Published March 3, 2026 — [Notes from the Abstracts](https://andrewrcrocker.substack.com)*
 
 ---
 
